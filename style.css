@@ -92,7 +92,7 @@
 
   #d3{
     position: relative;
-    margin-left: 40%;
+    margin-left: 38%;
   }
   
   #header{
@@ -118,10 +118,18 @@
 
   nav a:hover,
   nav a.active{
-    color: red;
+    color: #7b98ed;
     
   }
 
-  .container{
-    margin-right: 50%;
+  .videowrap{
+    position: relative;
+    right: 65px;
+  }
+ 
+  .fa-brands{
+    color: red;
+    font-size: 50px;
+    position: relative;
+    left: 39%;
   }
